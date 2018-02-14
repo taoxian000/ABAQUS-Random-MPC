@@ -1,0 +1,1 @@
+130.0	130.0	15.0	4.0	0.5	 100	0.2	rectangle-4	D:\SIMULIA\Temp\random
